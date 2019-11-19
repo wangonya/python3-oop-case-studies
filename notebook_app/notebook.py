@@ -55,6 +55,7 @@ class NoteBook:
     def list_all(self):
         """
         List all saved notes
+
         :return: all notes in self.notes[]
         :rtype: list
         """
